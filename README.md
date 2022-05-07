@@ -1,4 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A Vancouver based Full-Stack Web Developer from the UK</h3>
 
@@ -8,9 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ryan-williams-ca-uk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-williams-ca-uk" height="30" width="40" /></a>
- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="ryan-williams-ca-uk" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ca.linkedin.com/in/ryan-williams-ca-uk?trk=profile-badge">Ryan Williams</a></div>
-              
+<a href="https://linkedin.com/in/ryan-williams-ca-uk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ryan-williams-ca-uk" height="30" width="40" /></a>             
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
