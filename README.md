@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A Vancouver based Full-Stack Web Developer from the UK</h3>
 
-- 🌱 I’m currently learning **React & Node.JS**
-
 - 📫 How to reach me **ryanwilliams.workmail@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
